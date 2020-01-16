@@ -1,0 +1,8 @@
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\bin\Debug\Data.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\bin\Debug\Data.pdb
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\obj\Debug\Data.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Data\obj\Debug\Data.pdb

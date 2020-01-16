@@ -1,0 +1,10 @@
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\bin\Debug\Logic.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\bin\Debug\Logic.pdb
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\bin\Debug\Data.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\bin\Debug\Data.pdb
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\obj\Debug\Logic.dll
+C:\Users\Oskar\Documents\GitHub\CsharpProjekt\Logic\obj\Debug\Logic.pdb
